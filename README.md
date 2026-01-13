@@ -11,3 +11,8 @@ Project Manager с опытом управления IT-проектами по 
 ## Контакты
 - Санкт-Петербург / удаленно
 - HH: https://spb.hh.ru/resume/3fd275e6ff0fe7c7390039ed1f657063353272
+
+## Портфолио
+- Кейсы PM: https://github.com/SeragornIM/PM-cases
+- Дипломы и сертификаты: https://github.com/SeragornIM/Additional-education
+- Чат-бот:
