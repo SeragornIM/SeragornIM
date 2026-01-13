@@ -13,6 +13,6 @@ Project Manager с опытом управления IT-проектами по 
 - HH: https://spb.hh.ru/resume/3fd275e6ff0fe7c7390039ed1f657063353272
 
 ## Портфолио
-- ейсы PM (RPA, веб-продукт, AI-чат-бот): https://github.com/SeragornIM/PM-cases
+- Кейсы PM (RPA, веб-продукт, AI-чат-бот): https://github.com/SeragornIM/PM-cases
 - Дипломы и сертификаты: https://github.com/SeragornIM/Additional-education
 - PM Manifesto (принципы и стиль управления): https://github.com/SeragornIM/pm-manifesto
